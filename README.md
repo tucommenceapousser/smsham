@@ -4,7 +4,7 @@ python3<br>
 requests<br>
 colorama<br>
 # install and use
-git clone https://github.com/termux-lab/smsham.git
+git clone https://github.com/tucommenceapousser/smsham.git
 cd smsham<br>
 python3 smsham.py<br>
 >> number phone
